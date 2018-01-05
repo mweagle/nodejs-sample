@@ -1,6 +1,4 @@
 steps:
-- bash: echo hello world
-  displayName: Simple script
 
 - task: Npm@1
   displayName: npm install
