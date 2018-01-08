@@ -1,5 +1,5 @@
 steps:
-- bash: echo hello world
+- bash: echo Hello world JAR downstream
   displayName: Simple script
 
 - task: Npm@1
